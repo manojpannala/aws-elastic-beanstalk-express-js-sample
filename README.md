@@ -10,3 +10,16 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+# Screenshots
+
+## Elastic Beanstalk
+![screenshot 1](screenshots/de1.png)
+
+## AWS CodeBuild
+![screenshot 1](screenshots/de2.png)
+
+## Final Build
+![screenshot 1](screenshots/de3.png)
+
+## Output (Successful CodePipeline)
+![screenshot 1](screenshots/de4.png)
